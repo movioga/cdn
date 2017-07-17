@@ -30,7 +30,7 @@ onetwothree = {},
     onetwothree.getDataBanners = function () {
 
         var banners_1 = {
-            images: ["https://cdn.movio.ga/images/ban/003610A_FAGA_18_ALL_EN_245_L.gif"],
+            images: ["https://cdn.movio.ga/images/ban/20170327145806-003319A_FGEX_18_ALL_EN_18762_L.gif"],
             links: ["https://goo.gl/CLwdG8"]
         };
         var random_1 = onetwothree.getRandom(0, 0);
